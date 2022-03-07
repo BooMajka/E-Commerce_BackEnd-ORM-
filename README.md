@@ -1,4 +1,5 @@
-# E-Commerce_BackEnd-ORM-
+# E-Commerce_BackEnd-ORM
+Object-Relational Mapping
 
 ## Technologies
 - dotenv
